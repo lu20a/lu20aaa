@@ -7,7 +7,7 @@ mogenius搭建的账号已经绑定cf，可直接用优选的IP。
 
 在Xray.sh文件里修改UUID。
 
-###  vless客户端配置
+###  vmess客户端配置
 
 ```
 主机地址：优选IP
