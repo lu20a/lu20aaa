@@ -9,18 +9,20 @@ mogenius搭建的账号已经绑定cf，可直接用优选的IP。
 
 ###  vless客户端配置
 
-`主机地址`：`优选IP`
+```
+主机地址：优选IP
 
-`uuid`：`ad806487-2d26-4636-98b6-ab85cc8521f7`
+uuid：aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa
 
-`端口`：`443`
+端口：443
 
-`传输协议`：`ws`
+传输协议：ws
 
-`伪装域名`：`mogenius的域名`
+伪装域名：mogenius域名
 
-`路径`：`/`
+路径：/
 
-`底层传输安全`：`tls`
+底层传输安全：tls
 
-`跳过证书验证`：`false`
+跳过证书验证：false
+```
