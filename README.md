@@ -12,7 +12,7 @@ mogenius搭建的账号已经绑定cf，可直接用优选的IP。
 ```
 主机地址：优选IP
 
-uuid：aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa
+uuid：aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaf
 
 端口：443
 
